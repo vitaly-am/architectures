@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T10:03:05.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QNsz0NeDxkOP1YzG3gk-" version="16.6.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-19T10:47:36.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="aVdG95ZZoTVanzLZi3XN" version="16.6.1" type="github" pages="11">
   <diagram id="kiVKGX1KEw0d-LBi2iAN" name="Page-1">
-    <mxGraphModel dx="1923" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="e1HkNcWrbTfsDtc-VSux-6" value="business entity&lt;br&gt;товар" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="100" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5p8KNNgV0dkgqW-Ztsir-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e1HkNcWrbTfsDtc-VSux-10" target="5p8KNNgV0dkgqW-Ztsir-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e1HkNcWrbTfsDtc-VSux-10" value="entity attribute&lt;br&gt;приход цена" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="220" width="90" height="85" as="geometry" />
@@ -155,11 +158,14 @@
         <mxCell id="e1HkNcWrbTfsDtc-VSux-64" value="formula" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="260" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="5p8KNNgV0dkgqW-Ztsir-1" value="отчет" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="222.5" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ok3r9DvOlZrXPYD9BDpU" name="Page-2">
-    <mxGraphModel dx="1905" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vAMf2Nb8vmJWvjEuZwSR-0" />
         <mxCell id="vAMf2Nb8vmJWvjEuZwSR-1" parent="vAMf2Nb8vmJWvjEuZwSR-0" />
